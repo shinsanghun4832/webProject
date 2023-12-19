@@ -4,6 +4,6 @@
     <title>index</title>
 </head>
 <body>
-    <h2>hello spring framework!!  1111</h2>
+    <h2>hello spring framework!!</h2>
 </body>
 </html>
